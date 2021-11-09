@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Country",
+        "value": "Morocco"
+      },
+      {
+        "trait_type": "City",
+        "value": "Chefchaouen"
+      }
+    ],
+    "description": "This picture of chefchaouen was taken sunday novembre 7th 2021",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPaNCaQriaWSZo7AWrgHNHWXCbEnLQdhs3ydDRm3Sg8c5",
+    "name": "Chefchaouen city picture"
+  }
+  
